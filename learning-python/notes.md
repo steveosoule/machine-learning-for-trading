@@ -1,7 +1,8 @@
-
 # Notes
 
 ## [Manipulating Financial Data in Python](https://classroom.udacity.com/courses/ud501)
+
+[Next Lesson: Obtaining a slice of data](https://classroom.udacity.com/courses/ud501/lessons/3975568860/concepts/40014488790923)
 
 ## [Python for Finance](https://www.evernote.com/shard/s442/res/12a04e02-8600-48b8-8903-5d0bd824c0d9)
 
@@ -14,6 +15,7 @@ Using Yahoo's CSV approach above you can also get historical data! You can rever
 ```
 http://ichart.finance.yahoo.com/table.csv?s=YHOO&d=0&e=28&f=2010&g=d&a=3&b=12&c=1996&ignore=.csv
 ```
+
 
 Essentially:
 
