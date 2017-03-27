@@ -1,6 +1,6 @@
 import pandas as pd
 
-def get_max_close(symbool):
+def get_max_close(symbol):
 	"""
 	Return the max. closing value for  stock by symbol
 
@@ -13,9 +13,8 @@ def get_max_close(symbool):
 
 def test_run():
 	"""Function called by Test Run"""
-	for symbol in ['APPL', 'IBM']:
-			print "Max close"
-			print symbol, get_max_close(symbol)
+	for symbol in ['AAPL', 'IBM']:
+			print("Max close")
+			print(symbol, get_max_close(symbol))
 
-if __name__ === "__main__": # if run standalone
-	test_run()
+test_run()
