@@ -1,5 +1,17 @@
 # Notes
 
+
+## NumPy
+
+- [NumPy Refernce](https://docs.scipy.org/doc/numpy/reference/index.html)
+
+## Qunatative Finance
+
+- [Quantative Finance Reading List](https://www.quantstart.com/articles/Quantitative-Finance-Reading-List)
+- [Georgia Tech's Wiki: Machine Learning for Trading](http://quantsoftware.gatech.edu/Machine_Learning_for_Trading_Course)
+- [Quantopian](https://www.quantopian.com/)
+
+
 ## [Manipulating Financial Data in Python](https://classroom.udacity.com/courses/ud501)
 
 [Next Lesson: Obtaining a slice of data](https://classroom.udacity.com/courses/ud501/lessons/3975568860/concepts/40014488790923)
